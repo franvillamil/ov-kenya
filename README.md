@@ -21,6 +21,6 @@ The included R code files are (note that the running order is crucial):
 ### Data sources
 
 - Fatalities: ACLED project (www.acleddata.com)
-- Elections: National Electoral Commissions
+- Elections: National Electoral Commission
 - Ethnics: 1989 Kenyan Census
 - Poverty: Kenyan Integrated Household Budget Survey 2005/06 (variables at constituency level created in Kenya National Bureau of Statistics, 2008: Constituency report on well-being).
