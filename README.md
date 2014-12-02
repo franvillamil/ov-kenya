@@ -12,15 +12,15 @@ This repository contains all the required files to replicate the analysis and fi
 
 The included R code files are (note that the running order is crucial):
 
-```acled.R```  *(optional)* shows the creation of the dependent variable from the ACLED data set and creates the first 2 figures.
+- ```acled.R```  *(optional)* shows the creation of the dependent variable from the ACLED data set and creates the first 2 figures.
 
-```analysis.R```  *(1st)* load the data and makes the main analysis presented in the text.
+- ```analysis.R```  *(1st)* load the data and makes the main analysis presented in the text.
 
-```cv.R``` *(2nd)* cross-validates the negative binomial models.
+- ```cv.R``` *(2nd)* cross-validates the negative binomial models.
 
-```plots.R``` *(3rd)* creates and saves all the figures related to the analysis (figures 3-6).
+- ```plots.R``` *(3rd)* creates and saves all the figures related to the analysis (figures 3-6).
 
-```appendix.R``` *(optional)* carries out the analysis and figures included in the appendix
+- ```appendix.R``` *(optional)* carries out the analysis and figures included in the appendix
 
 ### Data sources
 
