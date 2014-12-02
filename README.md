@@ -8,7 +8,7 @@ Abstract:
 
 This repository contains all the required files to replicate the analysis and figures included in the paper. It can be easily downloaded by clicking on the 'Download ZIP' button at the right. Alternatively, it can be cloned using the command line.
 
-*Note:* The only necessary action if you download the ZIP file is to decompress the ```constituency.zip``` file. This folder has to be called 'constituency', and contains the shapefiles for the spatial overlay and the creation of the plots. The file was originally downloaded from ArcGis.com (http://www.arcgis.com/home/item.html?id=12a8bd218a944078b79f1f43e0a00786), but I had to include it here since I could not download it using R code.
+*Note:* The only necessary action if you download the ZIP file is to decompress the ```constituency.zip``` file. This folder needs to be called 'constituency', and should contain the shapefiles for the spatial overlay and the creation of the plots. The file was originally downloaded from ArcGis.com (http://www.arcgis.com/home/item.html?id=12a8bd218a944078b79f1f43e0a00786), but it is included here since it is not possible (to my knowledge) to download it from R.
 
 The included R code files are (note that the running order is crucial):
 
