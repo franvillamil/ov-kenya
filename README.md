@@ -1,6 +1,6 @@
 [**Political strongholds and the severity of organized violence during the 2008 Kenyan crisis**](https://franvillamil.files.wordpress.com/2015/04/villamil-organized-violence-kenya.pdf)
 
-Francisco Villamil *(BA thesis, 2014)*
+Francisco Villamil *(BA thesis final version, 2014)*
 
 Abstract:
 
@@ -26,7 +26,7 @@ The included R code files are (note that the running order is crucial):
 
 ### Data sources
 
-- Fatalities: ACLED project (www.acleddata.com)
+- Fatalities: [ACLED project](www.acleddata.com)
 - Elections: National Electoral Commission
 - Ethnics: 1989 Kenyan Census
 - Poverty: Kenyan Integrated Household Budget Survey 2005/06 (variables at constituency level created in Kenya National Bureau of Statistics, 2008: Constituency report on well-being).
