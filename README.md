@@ -1,4 +1,5 @@
 [**Political strongholds and the severity of organized violence during the 2008 Kenyan crisis**](https://franvillamil.files.wordpress.com/2015/04/villamil-organized-violence-kenya.pdf)
+
 Francisco Villamil *(BA thesis, 2014)*
 
 Abstract:
