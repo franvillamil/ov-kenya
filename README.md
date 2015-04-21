@@ -1,4 +1,4 @@
-Replication files for (https://franvillamil.files.wordpress.com/2015/04/villamil-organized-violence-kenya.pdf)[**Political strongholds and the severity of organized violence during the 2008 Kenyan crisis**], by Francisco Villamil.
+Replication files for [**Political strongholds and the severity of organized violence during the 2008 Kenyan crisis**](https://franvillamil.files.wordpress.com/2015/04/villamil-organized-violence-kenya.pdf), by Francisco Villamil.
 
 Abstract:
 
